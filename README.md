@@ -6,8 +6,8 @@
 - 🐈🐈🐈🐈🐈 Humana de cinco gatinhas fulltime.
   
 <div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=anamariagds&show_icons=true&theme=date_night" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamariagds&theme=date_night&layout=compact" />  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anamariagds&show_icons=true&theme=catppuccin_mocha" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamariagds&theme=catppuccin_mocha&layout=compact" />  
 </div>
 
 ***Tecnologias que eu uso no meu dia***
